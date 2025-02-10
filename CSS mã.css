@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Add specific styles for the new image */
+.banner img[src="c:/Users/Admin/Desktop/anhr cacs thanh vien/anhr banner 2.jpg"] {
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
+.slogan {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px 0;
+    text-align: center;
+}
+
+p img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.block_3 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+    }
+    .text-content {
+    padding-right: 1em;
+    width: 100%;
+    }
+   h1{font-family: Times, "Time New Roman", serif ;color: red;}
+   h1{text-align:center;}
+   h1{font-size:12px}
+   h2{font-family: "Arial", monospace ;}
+   h2{color:blue;}
+   h2{font-size:12px;}
+   h2{text-align:center;}
+   h3{font-family: Times, "Times New Roman", cursive ;}
+   h3{color:green;}
+   h3{font-size:12px}
+   h3:{text-align:center;}
+   h4{font-family: Times, "Times New Roman", ans-serif ;}
+   h4{color:green;}
+   h4{font-size:12px}
+   h4:{text-align:center;}
+   body{font-family:Times, "Times New Roman", serif ;}
+   body:{background-color:white;}
+   h1:{border:5px ridge blue;
+       margin:20px;
+       width:200px;
+       padding:10px;
+       margin:20px;}
+   a:visited {color:gray;}
+   ::selection{background-color:lime;}
+   container {height:20px}
